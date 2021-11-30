@@ -1,0 +1,7 @@
+.idea
+
+target
+
+DEMO_SOURCE/images/**
+DEMO_SOURCE/pdf/**
+DEMO_SOURCE/templates/**
